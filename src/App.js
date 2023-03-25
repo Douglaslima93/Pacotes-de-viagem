@@ -1,5 +1,6 @@
 
 import './App.css';
+import './Json.js';
 import praia1 from "../src/img/praia1.jpg";
 import cruzeiros1 from "../src/img/cruzeiros1.jpg";
 import resort1 from "../src/img/resort1.jpg";
