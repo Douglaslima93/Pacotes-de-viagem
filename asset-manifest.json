@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Douglaslima93/Pacotes-de-viagem/static/css/main.bd7b3f81.css",
+    "main.js": "/Douglaslima93/Pacotes-de-viagem/static/js/main.924d4d68.js",
+    "static/js/787.da1e0665.chunk.js": "/Douglaslima93/Pacotes-de-viagem/static/js/787.da1e0665.chunk.js",
+    "static/media/fundo3.jpg": "/Douglaslima93/Pacotes-de-viagem/static/media/fundo3.7cc1610f4ffbeaa12a7f.jpg",
+    "index.html": "/Douglaslima93/Pacotes-de-viagem/index.html",
+    "main.bd7b3f81.css.map": "/Douglaslima93/Pacotes-de-viagem/static/css/main.bd7b3f81.css.map",
+    "main.924d4d68.js.map": "/Douglaslima93/Pacotes-de-viagem/static/js/main.924d4d68.js.map",
+    "787.da1e0665.chunk.js.map": "/Douglaslima93/Pacotes-de-viagem/static/js/787.da1e0665.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd7b3f81.css",
+    "static/js/main.924d4d68.js"
+  ]
+}
