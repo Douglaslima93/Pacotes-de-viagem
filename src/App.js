@@ -15,7 +15,7 @@ function App() {
         </div>
 
         <div className='paragrafo'>
-          <p>Viajar e sempre bom, ainda mais com pessoas especiais.</p>
+          <p>Viajar e sempre bom, ainda mais com pessoas especiais <br></br> das três opções abaixo, qual você prefere?</p>
         </div>
 
       <div className='pacotes'>
