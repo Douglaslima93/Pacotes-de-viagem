@@ -2,6 +2,7 @@ import './App.css';
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import Carousel from 'react-bootstrap/Carousel';
+import './script.js';
 
 
 function App() {
@@ -22,12 +23,40 @@ function App() {
         <div className='praia'>
           <h2>Praia</h2>
           <Carousel fade>
+            
             <Carousel.Item>
-          <img  src='./assets/img/praia1.jpg'/>
+          <img  className='d-block w-100' src='./assets/img/praia1.jpg' id='img'/>
             </Carousel.Item>
+
             <Carousel.Item>
-              <img  src='./assets/img/praia2.jpg'/>
+              <img className='d-block w-100' src='./assets/img/praia2.jpg'/>
+             
             </Carousel.Item>
+
+            <Carousel.Item>
+              <img className='d-block w-100' src='./assets/img/praia3.jpg'/>
+            </Carousel.Item>
+
+            <Carousel.Item>
+              <img className='d-block w-100' src='./assets/img/praia4.jpg'/>
+            </Carousel.Item>
+
+            <Carousel.Item>
+              <img className='d-block w-100' src='./assets/img/praia5.jpg'/>
+            </Carousel.Item>
+
+            <Carousel.Item>
+              <img className='d-block w-100' src='./assets/img/praia6.jpg'/>
+            </Carousel.Item>
+
+            <Carousel.Item>
+              <img className='d-block w-100' src='./assets/img/praia7.jpg'/>
+            </Carousel.Item>
+
+            <Carousel.Item>
+              <img className='d-block w-100' src='./assets/img/praia8.jpg'/>
+            </Carousel.Item>
+
             </Carousel>
           
           <p>
@@ -40,12 +69,39 @@ function App() {
         <div className='cruzeiro'>
           <h2>Cruzeiro</h2>
           <Carousel fade>
+
             <Carousel.Item>
-          <img src='./assets/img/cruzeiros1.jpg'/>
+          <img className='d-block w-100' src='./assets/img/cruzeiros1.jpg'/>
           </Carousel.Item>
+
           <Carousel.Item>
-            <img src='./assets/img/cruzeiros2.jpg'/>
+            <img className='d-block w-100' src='./assets/img/cruzeiros2.jpg'/>
           </Carousel.Item>
+
+          <Carousel.Item>
+            <img className='d-block w-100' src='./assets/img/cruzeiros3.jpg'/>
+          </Carousel.Item>
+
+          <Carousel.Item>
+            <img className='d-block w-100' src='./assets/img/cruzeiros4.jpg'/>
+          </Carousel.Item>
+
+          <Carousel.Item>
+            <img className='d-block w-100' src='./assets/img/cruzeiros5.jpg'/>
+          </Carousel.Item>
+
+          <Carousel.Item>
+            <img className='d-block w-100' src='./assets/img/cruzeiros6.jpg'/>
+          </Carousel.Item>
+
+          <Carousel.Item>
+            <img className='d-block w-100' src='./assets/img/cruzeiros7.jpg'/>
+          </Carousel.Item>
+
+          <Carousel.Item>
+            <img className='d-block w-100' src='./assets/img/cruzeiros8.jpg'/>
+          </Carousel.Item>
+
           </Carousel>
           <p>
             Em uma viagem de navio, basta entrar, desfazer as malas e relaxar!
@@ -59,12 +115,39 @@ function App() {
         <div className='resort'>
           <h2>Resort</h2>
           <Carousel fade>
+
             <Carousel.Item>
-          <img src='./assets/img/resort1.jpg'/>
+          <img className='d-block w-100' src='./assets/img/resort1.jpg'/>
           </Carousel.Item>
+
           <Carousel.Item>
-            <img src='./assets/img/resort2.jpg'/>
+            <img className='d-block w-100' src='./assets/img/resort2.jpg'/>
           </Carousel.Item>
+
+          <Carousel.Item>
+            <img className='d-block w-100' src='./assets/img/resort3.jpg'/>
+          </Carousel.Item>
+
+          <Carousel.Item>
+            <img className='d-block w-100' src='./assets/img/resort4.jpg'/>
+          </Carousel.Item>
+
+          <Carousel.Item>
+            <img className='d-block w-100' src='./assets/img/resort5.jpg'/>
+          </Carousel.Item>
+
+          <Carousel.Item>
+            <img className='d-block w-100' src='./assets/img/resort6.jpg'/>
+          </Carousel.Item>
+
+          <Carousel.Item>
+            <img className='d-block w-100' src='./assets/img/resort7.jpg'/>
+          </Carousel.Item>
+
+          <Carousel.Item>
+            <img className='d-block w-100' src='./assets/img/resort8.jpg'/>
+          </Carousel.Item>
+
           </Carousel>
           <p>
             Viajar para um resort é uma forma de aproveitar a natureza, existem opções em praias, fazendas e montanhas.
@@ -77,10 +160,13 @@ function App() {
       <div className='footer'>
         <footer>
         <p>Desenvolvido por <strong>Douglas Lima</strong></p>
-        <p>Contato</p>
+        <div className='icons'>
+
         <a href='https://www.linkedin.com/in/douglas-lima-95073aa2/'><img src='./assets/img/linkedin.png'/></a>
         <a href='https://github.com/Douglaslima93'><img src='./assets/img/github.png'/></a>
         <a href='https://api.whatsapp.com/send?phone=+5515996013651>'><img src='./assets/img/whatsapp.png'/></a>
+
+        </div>
         </footer>
       </div>
     </div>
