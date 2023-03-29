@@ -23,35 +23,35 @@ function App() {
           <Carousel fade>
             
             <Carousel.Item>
-          <img  className='d-block w-100' src='./assets/img/praia1.jpg' id='img'/>
+          <img  className='d-block w-100' src='./assets/img/praia1.jpg' alt='praia'/>
             </Carousel.Item>
 
             <Carousel.Item>
-              <img className='d-block w-100' src='./assets/img/praia2.jpg'/>
+              <img className='d-block w-100' src='./assets/img/praia2.jpg' alt='praia'/>
             </Carousel.Item>
 
             <Carousel.Item>
-              <img className='d-block w-100' src='./assets/img/praia3.jpg'/>
+              <img className='d-block w-100' src='./assets/img/praia3.jpg' alt='praia'/>
             </Carousel.Item>
 
             <Carousel.Item>
-              <img className='d-block w-100' src='./assets/img/praia4.jpg'/>
+              <img className='d-block w-100' src='./assets/img/praia4.jpg' alt='praia'/>
             </Carousel.Item>
 
             <Carousel.Item>
-              <img className='d-block w-100' src='./assets/img/praia5.jpg'/>
+              <img className='d-block w-100' src='./assets/img/praia5.jpg' alt='praia'/>
             </Carousel.Item>
 
             <Carousel.Item>
-              <img className='d-block w-100' src='./assets/img/praia6.jpg'/>
+              <img className='d-block w-100' src='./assets/img/praia6.jpg' alt='praia'/>
             </Carousel.Item>
 
             <Carousel.Item>
-              <img className='d-block w-100' src='./assets/img/praia7.jpg'/>
+              <img className='d-block w-100' src='./assets/img/praia7.jpg' alt='praia'/>
             </Carousel.Item>
 
             <Carousel.Item>
-              <img className='d-block w-100' src='./assets/img/praia8.jpg'/>
+              <img className='d-block w-100' src='./assets/img/praia8.jpg' alt='praia'/>
             </Carousel.Item>
 
             </Carousel>
@@ -68,35 +68,35 @@ function App() {
           <Carousel fade>
 
             <Carousel.Item>
-          <img className='d-block w-100' src='./assets/img/cruzeiros1.jpg'/>
+          <img className='d-block w-100' src='./assets/img/cruzeiros1.jpg' alt='cruzeiro'/>
           </Carousel.Item>
 
           <Carousel.Item>
-            <img className='d-block w-100' src='./assets/img/cruzeiros2.jpg'/>
+            <img className='d-block w-100' src='./assets/img/cruzeiros2.jpg' alt='cruzeiro'/>
           </Carousel.Item>
 
           <Carousel.Item>
-            <img className='d-block w-100' src='./assets/img/cruzeiros3.jpg'/>
+            <img className='d-block w-100' src='./assets/img/cruzeiros3.jpg' alt='cruzeiro'/>
           </Carousel.Item>
 
           <Carousel.Item>
-            <img className='d-block w-100' src='./assets/img/cruzeiros4.jpg'/>
+            <img className='d-block w-100' src='./assets/img/cruzeiros4.jpg' alt='cruzeiro'/>
           </Carousel.Item>
 
           <Carousel.Item>
-            <img className='d-block w-100' src='./assets/img/cruzeiros5.jpg'/>
+            <img className='d-block w-100' src='./assets/img/cruzeiros5.jpg' alt='cruzeiro'/>
           </Carousel.Item>
 
           <Carousel.Item>
-            <img className='d-block w-100' src='./assets/img/cruzeiros6.jpg'/>
+            <img className='d-block w-100' src='./assets/img/cruzeiros6.jpg' alt='cruzeiro'/>
           </Carousel.Item>
 
           <Carousel.Item>
-            <img className='d-block w-100' src='./assets/img/cruzeiros7.jpg'/>
+            <img className='d-block w-100' src='./assets/img/cruzeiros7.jpg' alt='cruzeiro'/>
           </Carousel.Item>
 
           <Carousel.Item>
-            <img className='d-block w-100' src='./assets/img/cruzeiros8.jpg'/>
+            <img className='d-block w-100' src='./assets/img/cruzeiros8.jpg' alt='cruzeiro'/>
           </Carousel.Item>
 
           </Carousel>
@@ -114,35 +114,35 @@ function App() {
           <Carousel fade>
 
             <Carousel.Item>
-          <img className='d-block w-100' src='./assets/img/resort1.jpg'/>
+          <img className='d-block w-100' src='./assets/img/resort1.jpg' alt='resort'/>
           </Carousel.Item>
 
           <Carousel.Item>
-            <img className='d-block w-100' src='./assets/img/resort2.jpg'/>
+            <img className='d-block w-100' src='./assets/img/resort2.jpg' alt='resort'/>
           </Carousel.Item>
 
           <Carousel.Item>
-            <img className='d-block w-100' src='./assets/img/resort3.jpg'/>
+            <img className='d-block w-100' src='./assets/img/resort3.jpg' alt='resort'/>
           </Carousel.Item>
 
           <Carousel.Item>
-            <img className='d-block w-100' src='./assets/img/resort4.jpg'/>
+            <img className='d-block w-100' src='./assets/img/resort4.jpg' alt='resort'/>
           </Carousel.Item>
 
           <Carousel.Item>
-            <img className='d-block w-100' src='./assets/img/resort5.jpg'/>
+            <img className='d-block w-100' src='./assets/img/resort5.jpg' alt='resort'/>
           </Carousel.Item>
 
           <Carousel.Item>
-            <img className='d-block w-100' src='./assets/img/resort6.jpg'/>
+            <img className='d-block w-100' src='./assets/img/resort6.jpg' alt='resort'/>
           </Carousel.Item>
 
           <Carousel.Item>
-            <img className='d-block w-100' src='./assets/img/resort7.jpg'/>
+            <img className='d-block w-100' src='./assets/img/resort7.jpg' alt='resort'/>
           </Carousel.Item>
 
           <Carousel.Item>
-            <img className='d-block w-100' src='./assets/img/resort8.jpg'/>
+            <img className='d-block w-100' src='./assets/img/resort8.jpg' alt='resort'/>
           </Carousel.Item>
 
           </Carousel>
@@ -159,9 +159,9 @@ function App() {
         <p>Desenvolvido por <strong>Douglas Lima</strong></p>
         <div className='icons'>
 
-        <a href='https://www.linkedin.com/in/douglas-lima-95073aa2/'><img src='./assets/img/linkedin.png'/></a>
-        <a href='https://github.com/Douglaslima93'><img src='./assets/img/github.png'/></a>
-        <a href='https://api.whatsapp.com/send?phone=+5515996013651>'><img src='./assets/img/whatsapp.png'/></a>
+        <a href='https://www.linkedin.com/in/douglas-lima-95073aa2/'><img src='./assets/img/linkedin.png' alt='linkedin'/></a>
+        <a href='https://github.com/Douglaslima93'><img src='./assets/img/github.png' alt='github'/></a>
+        <a href='https://api.whatsapp.com/send?phone=+5515996013651>'><img src='./assets/img/whatsapp.png' alt='whatsapp'/></a>
 
         </div>
         </footer>
