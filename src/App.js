@@ -2,8 +2,6 @@ import './App.css';
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import Carousel from 'react-bootstrap/Carousel';
-import './script.js';
-
 
 function App() {
   return (
@@ -30,7 +28,6 @@ function App() {
 
             <Carousel.Item>
               <img className='d-block w-100' src='./assets/img/praia2.jpg'/>
-             
             </Carousel.Item>
 
             <Carousel.Item>
